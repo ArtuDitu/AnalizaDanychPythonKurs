@@ -1,0 +1,7 @@
+{
+  "Q1": "Czy grupa eksperymentalna ma krotszy medianowy reaction_time_ms niz grupa kontrolna po oczyszczeniu danych?",
+  "Q2": "Jak zmienia sie memory_score wraz ze sleep_hours i stress_level?",
+  "Q3": "Czy accuracy (correct) zalezy od difficulty i condition?",
+  "Q4": "Ktore 3 miasta maja najwyzszy sredni memory_score po czyszczeniu?",
+  "Q5": "Ile obserwacji zostalo usunietych i dlaczego (braki, duplikaty, outliery)?"
+}
